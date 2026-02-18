@@ -1,6 +1,6 @@
 # Customer Behavior Analysis for Product Strategy  
 ### Product Analytics Project  
-**Developed by: Mariana Diaz, Juan Diego Reyes and Isaac Janica
+** Developed by: Mariana Diaz, Juan Diego Reyes and Isaac Janica
 
 ---
 
